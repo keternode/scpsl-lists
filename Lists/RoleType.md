@@ -1,6 +1,7 @@
 ```
 # Roles, Teams, Sides, and Factions
 <ID>    <Role>          <Team>               <Side>           <Faction>
+?      Scp3114          SCPs                 Scp              SCP
 -1      None            Dead                 None             Unclassified
 0       Scp173          SCPs                 Scp              SCP
 1       ClassD          ClassD               ChaosInsurgency  FoundationEnemy

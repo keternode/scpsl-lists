@@ -1,30 +1,32 @@
 ```
-# Roles, Teams, Sides, and Factions
-<ID>    <Role>          <Team>               <Side>           <Faction>
-?      Scp3114          SCPs                 Scp              SCP
--1      None            Dead                 None             Unclassified
-0       Scp173          SCPs                 Scp              SCP
-1       ClassD          ClassD               ChaosInsurgency  FoundationEnemy
-2       Spectator       Dead                 None             Unclassified
-3       Scp106          SCPs                 Scp              SCP
-4       NtfSpecialist   FoundationForces     Mtf              FoundationStaff
-5       Scp049          SCPs                 Scp              SCP
-6       Scientist       Scientists           Mtf              FoundationStaff
-7       Scp079          SCPs                 Scp              SCP
-8       ChaosConscript  ChaosInsurgency      ChaosInsurgency  FoundationEnemy
-9       Scp096          SCPs                 Scp              SCP
-10      Scp0492         SCPs                 Scp              SCP
-11      NtfSergeant     FoundationForces     Mtf              FoundationStaff
-12      NtfCaptain      FoundationForces     Mtf              FoundationStaff
-13      NtfPrivate      FoundationForces     Mtf              FoundationStaff
-14      Tutorial        OtherAlive           Tutorial         Unclassified
-15      FacilityGuard   FoundationForces     Mtf              FoundationStaff
-16      Scp939          SCPs                 Scp              SCP
-17      CustomRole      OtherAlive           Tutorial         Unclassified
-18      ChaosRifleman   ChaosInsurgency      ChaosInsurgency  FoundationEnemy
-19      ChaosRepressor  ChaosInsurgency      ChaosInsurgency  FoundationEnemy
-20      ChaosMarauder   ChaosInsurgency      ChaosInsurgency  FoundationEnemy
-21      Overwatch       Dead                 None             Unclassified
-22      Filmmaker       Dead                 None             Unclassified
+| Id  | RoleTypeId     | Team             | Side             | LeadingTeam     |
+|-----|----------------|------------------|------------------|-----------------|
+| -1  | None           | Dead             | None             | Draw            |
+| 0   | Scp173         | SCPs             | Scp              | Anomalies       |
+| 1   | ClassD         | ClassD           | ChaosInsurgency  | ChaosInsurgency |
+| 2   | Spectator      | Dead             | None             | Draw            |
+| 3   | Scp106         | SCPs             | Scp              | Anomalies       |
+| 4   | NtfSpecialist  | FoundationForces | Mtf              | FacilityForces  |
+| 5   | Scp049         | SCPs             | Scp              | Anomalies       |
+| 6   | Scientist      | Scientists       | Mtf              | FacilityForces  |
+| 7   | Scp079         | SCPs             | Scp              | Anomalies       |
+| 8   | ChaosConscript | ChaosInsurgency  | ChaosInsurgency  | ChaosInsurgency |
+| 9   | Scp096         | SCPs             | Scp              | Anomalies       |
+| 10  | Scp0492        | SCPs             | Scp              | Anomalies       |
+| 11  | NtfSergeant    | FoundationForces | Mtf              | FacilityForces  |
+| 12  | NtfCaptain     | FoundationForces | Mtf              | FacilityForces  |
+| 13  | NtfPrivate     | FoundationForces | Mtf              | FacilityForces  |
+| 14  | Tutorial       | OtherAlive       | Tutorial         | Draw            |
+| 15  | FacilityGuard  | FoundationForces | Mtf              | FacilityForces  |
+| 16  | Scp939         | SCPs             | Scp              | Anomalies       |
+| 17  | CustomRole     | Dead             | None             | Draw            |
+| 18  | ChaosRifleman  | ChaosInsurgency  | ChaosInsurgency  | ChaosInsurgency |
+| 19  | ChaosMarauder  | ChaosInsurgency  | ChaosInsurgency  | ChaosInsurgency |
+| 20  | ChaosRepressor | ChaosInsurgency  | ChaosInsurgency  | ChaosInsurgency |
+| 21  | Overwatch      | Dead             | None             | Draw            |
+| 22  | Filmmaker      | Dead             | None             | Draw            |
+| 23  | Scp3114        | SCPs             | Scp              | Anomalies       |
+| 24  | Flamingo       | Flamingo         | Flamingo         | Flamingo        |
+| 25  | AlphaFlamingo  | Flamingo         | Flamingo         | Flamingo        |
+| 26  | ZombieFlamingo | SCPs             | Scp              | Anomalies       |
 ```
-Credit: Dashtiss

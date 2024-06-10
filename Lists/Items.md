@@ -11,6 +11,7 @@
     KeycardNTFCommander
     KeycardFacilityManager
     KeycardChaosInsurgency
+    KeycardMTFOperative
     KeycardO5
     Radio
     GunCOM15

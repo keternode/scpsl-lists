@@ -2,7 +2,6 @@
 This repo is a resource that hosts a list of prefabs, items, permissions, door types and more for plugin development.
 
 
-lol
 
 
 Credits are included in each file.
